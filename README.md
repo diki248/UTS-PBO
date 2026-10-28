@@ -1,8 +1,8 @@
 # UTS Pemrograman Berorientasi Objek
 
 ## Identitas
-- NIM: ISI_NIM_ANDA
-- Nama: ISI_NAMA_ANDA
+- NIM: STI202504416
+- Nama: DZICKRY ZAKARIYYA AS SABKHA
 
 ## Deskripsi
 Program Python untuk membaca dan mengolah data karyawan dan sensor dari dua file JSON.
